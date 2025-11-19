@@ -9,3 +9,7 @@ List of Fav Characters
 ## Villians 
 - Vecna 
 - Demogorgon
+
+## Locations 
+- Udside Down 
+- Los Angeles 
